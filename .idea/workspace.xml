@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7777b018-a5f4-4c82-b9cc-e99da6079fb3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission/chapter05/mission.md" beforeDir="false" afterPath="$PROJECT_DIR$/mission/chapter05/mission.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feat/#4-add-mission",
+    "git-widget-placeholder": "feat/#5-try-mission",
     "last_opened_file_path": "C:/Users/jijon/Desktop/UMC/UMC-7/mission/UMC-7th-Nodejs/ddl-query/맛집미션.sql",
     "settings.editor.selected.configurable": "database.query.execution"
   },

@@ -118,18 +118,39 @@
 
 
 
-## 가게에 리뷰 추가 API 구현
+## 미션 도전하기 API 구현
 
 ### 이슈
+![alt text](<4번 API 이슈 및 브랜치 생성.png>)
 
 ### Controller
+mission.controller.js 에 아래 코드를 추가하였다.
+![alt text](4_controller.png)
 
 ### Service
+mission.service.js 에 아래 코드를 추가하였다.
+![alt text](4_service.png)
 
 ### Repository
+mission.repository.js 에 아래 코드를 추가하였다.
+![alt text](4_repository.png)
 
 ### DTO
+mission.dto.js 에 아래 코드를 추가하였다.
+![alt text](4_dto.png)
 
 ### 결과
 
 #### Postman 실행 결과
+
+미션도전하기가 성공적으로 수행된 경우
+![alt text](4_result_success.png)
+
+한번 도전한 미션을 다시 도전할 경우
+![alt text](4_result_failure.png)
+
+아래는 미션 도전했을 때 user_mission 테이블에 데이터가 들어간 모습이다. 도전을 한번 더 했을 때는 들어가지 않는다.
+![alt text](4_result_success_data.png)
+
+#### 깃허브 레포지토리
+https://github.com/GodUser1005/UMC-7th-Nodejs/tree/feature/mission-05
