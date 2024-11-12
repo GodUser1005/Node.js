@@ -83,6 +83,41 @@
 
 
 
+## 가게에 미션 추가 API 구현
+
+### 이슈
+![alt text](<3번 API 이슈 및 브랜치 생성.png>)
+
+### Controller
+![alt text](3_controller.png)
+
+### Service
+![alt text](3_service.png)
+
+### Repository
+![alt text](3_repository_1.png)
+![alt text](3_repository_2.png)
+
+### DTO
+![alt text](3_dto.png)
+
+### 결과
+
+#### Postman 실행 결과
+
+아래는 성공했을 때의 결과이다.
+![alt text](3_result_success.png)
+
+아래는 실패했을 때의 결과이다.(store_id가 이상한경우)
+![alt text](3_result_failure.png)
+
+아래는 데이터가 들어간 모습이다.
+잘못된 요청에 대한 데이터는 들어가지 않는다.
+![alt text](3_result_success_data.png)
+
+
+
+
 ## 가게에 리뷰 추가 API 구현
 
 ### 이슈
