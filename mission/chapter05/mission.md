@@ -1,5 +1,4 @@
 ## 각 api 마다 이슈 생성
-
 ![alt text](<이슈 생성.png>)
 
 ## 특정지역에 가게 추가 API 구현
@@ -47,5 +46,55 @@
 ![alt text](1_result_success_data.png)
 
 
-##
 
+## 가게에 리뷰 추가 API 구현
+
+### 이슈
+![alt text](<2번 API 이슈 및 브랜치 생성.png>)
+
+### Controller
+![alt text](2_controller.png)
+
+### Service
+![alt text](2_service.png)
+
+### Repository
+![alt text](2_repository_1.png)
+![alt text](2_repository_2.png)
+
+### DTO
+![alt text](2_dto.png)
+
+### 결과
+
+#### 초기 데이터
+현재 stores 테이블에 있는 가게 데이터는 다음과 같다.
+![alt text](2_result_data.png)
+
+#### Postman 실행 결과
+아래는 성공 했을 때의 모습이다.
+![alt text](2_result_success.png)
+
+아래는 없는 가게에 리뷰를 추가하려고 할 때 실패의 모습이다.
+![alt text](2_result_failure.png)
+
+아래는 reviews 테이블에 데이터가 잘 입력된 모습이며, 잘못된 요청의 데이터는 들어가있지 않다.
+![alt text](2_result_success_data.png)
+
+
+
+## 가게에 리뷰 추가 API 구현
+
+### 이슈
+
+### Controller
+
+### Service
+
+### Repository
+
+### DTO
+
+### 결과
+
+#### Postman 실행 결과
