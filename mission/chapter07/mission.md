@@ -1,6 +1,7 @@
 ## error.js
 
 Error 클래스 생성
+
 ![alt text](error_js.png)
 
 각 Repository 단에서 에러 발생시 에러 객체 생성
