@@ -1017,7 +1017,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="293" parent="1" name="umc_7th_nodejs">
-      <LastIntrospectionLocalTimestamp>2024-11-12.18:59:32</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-11-18.12:15:37</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="294" parent="1" name="practice_database">
@@ -25889,7 +25889,7 @@ category_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="4984" parent="713" name="id">
-      <AutoIncrement>6</AutoIncrement>
+      <AutoIncrement>15</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -26049,7 +26049,7 @@ category_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="5017" parent="716" name="id">
-      <AutoIncrement>8</AutoIncrement>
+      <AutoIncrement>15</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -26121,7 +26121,7 @@ category_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="5032" parent="717" name="id">
-      <AutoIncrement>15</AutoIncrement>
+      <AutoIncrement>18</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -26188,7 +26188,7 @@ category_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="5046" parent="718" name="id">
-      <AutoIncrement>7</AutoIncrement>
+      <AutoIncrement>50</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -26246,7 +26246,7 @@ category_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="5058" parent="719" name="id">
-      <AutoIncrement>13</AutoIncrement>
+      <AutoIncrement>33</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
